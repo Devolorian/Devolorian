@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Devolorian
+- 👀 I’m interested in Data Analysys
+- 🌱 I’m currently learning python
